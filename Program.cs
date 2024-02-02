@@ -15,6 +15,8 @@
             grades[2] = "Bad";
             grades[1] = "Worse";
 
+            Console.WriteLine(grades[4]);
+
             foreach (var grade in grades)
             {
 
