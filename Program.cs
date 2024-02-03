@@ -9,6 +9,7 @@
                 {6, "Perfect" }
             };
 
+            grades.Add(6, "Awesome");
             grades.Add(5, "Good");
             grades[4] = "Okay";
             grades[3] = "Almost";
