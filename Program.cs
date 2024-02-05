@@ -10,7 +10,7 @@
             };
 
             grades.Add(6, "Awesome");
-            grades.Add(5, "Good");
+            grades.Add(5, "very Good");
             grades[4] = "Okay";
             grades[3] = "Almost";
             grades[2] = "Bad";
